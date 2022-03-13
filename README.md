@@ -20,7 +20,13 @@ Playing in train mode:
 
 
 The simulation design was done with focus on graphics to reduce cyber sickness. To achieve realsim global illumination and bake lighting was used.
+
+
+
+
 The Court scene in simulation:
+
+
 ![court scene](Court_Scene.png)
 
 
@@ -44,8 +50,6 @@ Environment Showcase:
 
 
 
+![Environment showcase 1](envshowcase1.gif)
 
-1:  ![Environment showcase 1](envshowcase1.gif)
-
-
-2:  ![Environment showcase 2](envshowcase2.gif)
+![Environment showcase 2](envshowcase2.gif)
